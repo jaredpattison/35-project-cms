@@ -1,15 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 35 - CMS
 
 ### Author: Student/Group Name
-
+[![Build Status](https://www.travis-ci.com/jaredpattison/35-project-cms.svg?branch=master)](https://www.travis-ci.com/jaredpattison/35-project-cms)
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/jaredpattison/35-project-cms)
+* [travis](https://www.travis-ci.com/jaredpattison/35-project-cms)
+* [back-end](https://javascript-401-api.herokuapp.com/api/v1)
+* [front-end](http://lab35cms-pipelinebucket-1u00vjey8y5mu.s3-website-us-west-2.amazonaws.com/)
 
 ### Modules
 #### `modulename.js`
