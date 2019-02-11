@@ -2,7 +2,7 @@
 
 import React from "react";
 import {shallow,mount} from 'enzyme';
-import CMS from "../components/cms/cms";
+import CMS from "../components/cms/cms.js";
 import Models from "../components/cms/models";
 import Record from "../components/cms/record";
 import Records from "../components/cms/records";
